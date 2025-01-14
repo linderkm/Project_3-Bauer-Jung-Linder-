@@ -4,10 +4,10 @@
 
 CREATE TABLE "player" (
     "ID" INT   NOT NULL,
-    "Age" INT   NOT NULL,
+    "Age" VARCHAR   NOT NULL,
     "Gender" VARCHAR   NOT NULL,
     "Sexuality" VARCHAR   NOT NULL,
-    "Country" VARCHAR   NOT NULL,
+    "Country" VARCHAR,
     "Server" VARCHAR   NOT NULL,
     CONSTRAINT "pk_player" PRIMARY KEY (
         "ID"
