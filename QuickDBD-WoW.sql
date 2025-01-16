@@ -3,25 +3,25 @@
 
 
 CREATE TABLE "player" (
-    "ID" INT   NOT NULL,
-    "Age" VARCHAR   NOT NULL,
-    "Gender" VARCHAR   NOT NULL,
-    "Sexuality" VARCHAR   NOT NULL,
-    "Country" VARCHAR,
-    "Server" VARCHAR   NOT NULL,
+    id INT   NOT NULL,
+    age VARCHAR   NOT NULL,
+    gender VARCHAR   NOT NULL,
+    sexuality VARCHAR   NOT NULL,
+    country VARCHAR,
+    server VARCHAR   NOT NULL,
     CONSTRAINT "pk_player" PRIMARY KEY (
         "ID"
      )
 );
 
 CREATE TABLE "character" (
-    "ID" INT   NOT NULL,
-    "Faction" VARCHAR   NOT NULL,
-    "Main" VARCHAR   NOT NULL,
-    "Role" VARCHAR   NOT NULL,
-    "Class" VARCHAR   NOT NULL,
-    "Race" VARCHAR   NOT NULL,
-    "Type" VARCHAR   NOT NULL,
+    id INT   NOT NULL,
+    faction VARCHAR   NOT NULL,
+    main VARCHAR   NOT NULL,
+    role VARCHAR   NOT NULL,
+    class VARCHAR   NOT NULL,
+    race VARCHAR   NOT NULL,
+    type VARCHAR   NOT NULL,
     CONSTRAINT "pk_character" PRIMARY KEY (
         "ID"
      )
