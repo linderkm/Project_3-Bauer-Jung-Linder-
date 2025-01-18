@@ -1,0 +1,101 @@
+Timestamp,Gender,Sexuality,Age,Country,Main,Faction,Server,Role,Class,Race,Max,Attracted,Type
+2017/07/24 10:19:56 PM AST,Female,Bi/Pan,18 to 30,USA,Female,Alliance,PvE,DPS,Hunter,Draenei,2,Both,Bi female
+2017/07/24 10:25:34 PM AST,Other,Gay,18 to 30,Indonesia,Female,Horde,RP,Healer,Druid,Troll,2,,Gay other
+2017/07/24 10:27:56 PM AST,Female,Bi/Pan,18 to 30,USA,Female,Horde,PvE,DPS,Druid,Troll,2,Both,Bi female
+2017/07/24 10:46:20 PM AST,Male,Gay,18 to 30,England,Female,Alliance,PvE,Healer,Priest,Night Elf,2,Men,Gay man
+2017/07/24 10:56:33 PM AST,Male,Straight,18 to 30,usa,Female,Alliance,PvE,Healer,Priest,Night Elf,4,Women,Straight man
+2017/07/24 11:45:42 PM AST,Female,Bi/Pan,18 to 30,England,Both equally,Both equally,PvP,Healer,Hunter;Rogue,Dwarf;Night Elf;Draenei,6,Both,Bi female
+2017/07/25 12:00:19 AM AST,Male,Straight,18 to 30,Russian Federation,Female,Alliance,PvE,DPS;Healer,Shaman,Draenei,3,Women,Straight man
+2017/07/25 12:03:50 AM AST,Female,Bi/Pan,18 to 30,,Female,Horde,PvE;PvP,DPS;Tank,Death Knight;Demon Hunter;Paladin,Blood Elf,6,Both,Bi female
+2017/07/25 3:10:39 AM AST,Other,Bi/Pan,18 to 30,USA,Male,Horde,PvE,DPS;Healer,Shaman;Warlock;Warrior,Tauren,3,Both,Bi other
+2017/07/25 7:16:40 AM AST,Female,Gay,31 to 42,USA,Female,Horde,PvE;PvP;RP,DPS;Tank,Monk;Warrior,Pandaren,1,Women,Gay woman
+2017/07/25 9:36:56 AM AST,Male,Gay,18 to 30,South Africa,Male,Horde,RP,DPS,Monk,Blood Elf,1,Men,Gay man
+2017/07/25 7:34:07 PM AST,Male,Straight,31 to 42,USA,Both equally,Alliance,PvE,Tank;Healer,Monk;Shaman;Warlock,Gnome;Draenei,5,Women,Straight man
+2017/07/25 9:48:45 PM AST,Male,Straight,43 to 55,USA,Male,Alliance,PvE,DPS,Hunter,Human,2,Women,Straight man
+2017/07/25 9:59:51 PM AST,Male,Straight,31 to 42,USA,Female,Alliance,PvE,DPS;Tank;Healer,Druid;Hunter;Monk;Paladin;Shaman,Human;Night Elf;Draenei,5,Women,Straight man
+2017/07/25 11:06:20 PM AST,Female,Bi/Pan,18 to 30,USA,Female,Alliance,PvE,DPS;Tank,Death Knight;Hunter;Paladin,Night Elf;Blood Elf,1,Both,Bi female
+2017/07/25 11:07:34 PM AST,Female,Straight,43 to 55,USA,Female,Horde,PvE,DPS;Healer,Druid;Hunter;Monk;Paladin;Priest;Rogue;Shaman;Warlock;Warrior,Dwarf;Gnome;Pandaren;Orc;Blood Elf;Goblin,5,Men,Straight woman
+2017/07/25 11:07:44 PM AST,Male,Bi/Pan,18 to 30,USA,Female,Horde,PvE;RP,DPS,Death Knight;Priest,Goblin,3,Both,Bi male
+2017/07/25 11:08:34 PM AST,Female,Gay,18 to 30,USA,Female,Horde,PvE;PvP;RP,DPS,Druid;Mage;Priest,Undead;Troll;Blood Elf,6,Women,Gay woman
+2017/07/25 11:09:53 PM AST,Female,Gay,18 to 30,USA,Female,Both equally,PvP,DPS;Healer,Demon Hunter;Priest,Human;Night Elf;Blood Elf,2,Women,Gay woman
+2017/07/25 11:11:29 PM AST,Male,Gay,Under 18,USA,Male,Horde,PvP,DPS,Death Knight;Demon Hunter,Blood Elf,1,Men,Gay man
+2017/07/25 11:11:58 PM AST,Female,Gay,18 to 30,Hungary,Female,Alliance,PvP,DPS;Healer,Death Knight;Druid;Shaman,Night Elf;Draenei,4,Women,Gay woman
+2017/07/25 11:13:53 PM AST,Other,Bi/Pan,18 to 30,USA,Female,Alliance,PvP,DPS,Death Knight;Druid;Hunter,Night Elf;Draenei,0,Both,Bi other
+2017/07/25 11:14:17 PM AST,Female,Bi/Pan,31 to 42,United Kingdom,Female,Horde,PvE,Tank,Death Knight,Blood Elf,5,Both,Bi female
+2017/07/25 11:20:09 PM AST,Female,Straight,Under 18,USA,Female,Alliance,PvE,DPS,Death Knight;Demon Hunter;Druid;Hunter;Paladin;Rogue,Human;Night Elf;Draenei;Worgen;Blood Elf,4,Men,Straight woman
+2017/07/25 11:21:59 PM AST,Female,Gay,18 to 30,Ireland,Female,Horde,PvP,DPS,Demon Hunter;Mage,Blood Elf,6,Women,Gay woman
+2017/07/25 11:22:28 PM AST,Female,Bi/Pan,Under 18,usa,Female,Alliance,RP,DPS,Druid,Night Elf,2,Both,Bi female
+2017/07/25 11:28:25 PM AST,Female,Straight,Under 18,USA,Male,Horde,PvE,Tank;Healer,Death Knight;Paladin;Priest,Undead;Blood Elf,6,Men,Straight woman
+2017/07/25 11:31:58 PM AST,Female,Bi/Pan,Under 18,USA,Female,Alliance,PvE,Tank;Healer,Death Knight;Druid,Night Elf;Draenei;Blood Elf,0,Both,Bi female
+2017/07/25 11:34:41 PM AST,Male,Bi/Pan,Under 18,USA,Female,Alliance,PvP,DPS;Healer,Death Knight;Hunter;Monk,Night Elf;Worgen;Pandaren;Goblin,1,Both,Bi male
+2017/07/25 11:53:11 PM AST,Other,Gay,18 to 30,USA,Female,Alliance,RP,DPS,Priest;Warrior,Worgen,0,,Gay other
+2017/07/26 12:03:07 AM AST,Male,Gay,18 to 30,USA,Male,Alliance,PvE,DPS,Druid,Night Elf,2,Men,Gay man
+2017/07/26 12:09:35 AM AST,Other,Bi/Pan,18 to 30,USA,Female,Both equally,N/A,DPS;Healer,Demon Hunter;Druid;Hunter;Priest,Night Elf;Blood Elf,4,Both,Bi other
+2017/07/26 12:13:41 AM AST,Male,Straight,18 to 30,USA,Male,Horde,PvE,DPS,Mage,Undead,5,Women,Straight man
+2017/07/26 12:57:44 AM AST,Female,Gay,Under 18,USA,Female,Both equally,RP,Tank;Healer,Demon Hunter;Druid;Monk;Warlock;Warrior,Night Elf;Worgen;Pandaren;Undead;Blood Elf,1,Women,Gay woman
+2017/07/26 1:19:14 AM AST,Female,Gay,18 to 30,USA,Both equally,Horde,RP,DPS;Healer,Death Knight;Paladin,Night Elf;Blood Elf,6,Women,Gay woman
+2017/07/26 1:51:27 AM AST,Female,Bi/Pan,18 to 30,USA,Both equally,Both equally,PvE;RP,DPS,Druid;Hunter,Human;Night Elf;Blood Elf,2,Both,Bi female
+2017/07/26 2:47:55 AM AST,Male,Bi/Pan,18 to 30,Chile,Female,Alliance,PvE,DPS;Tank;Healer,Paladin;Warrior,Pandaren;Tauren,6,Both,Bi male
+2017/07/26 2:54:47 AM AST,Male,Bi/Pan,18 to 30,USA,Male,Horde,RP,DPS,Demon Hunter,Blood Elf,1,Both,Bi male
+2017/07/26 3:30:32 AM AST,Female,Straight,18 to 30,,Female,Both equally,PvP;RP,DPS;Healer,Mage;Shaman,Dwarf;Pandaren,6,Men,Straight woman
+2017/07/26 4:41:14 AM AST,Other,Bi/Pan,Under 18,USA,Female,Alliance,PvE;RP,Healer,Demon Hunter;Monk;Priest,Night Elf;Pandaren,4,Both,Bi other
+2017/07/26 4:46:13 AM AST,Female,Bi/Pan,Under 18,USA,Female,Alliance,RP,DPS,Druid,Night Elf,2,Both,Bi female
+2017/07/26 4:48:29 AM AST,Female,Bi/Pan,Under 18,USA,Female,Alliance,RP,DPS,Druid,Night Elf;Worgen,3,Both,Bi female
+2017/07/26 5:05:05 AM AST,Female,Gay,18 to 30,Canada,Female,Alliance,PvE,DPS,Monk,Human,1,Women,Gay woman
+2017/07/26 5:08:00 AM AST,Female,Bi/Pan,18 to 30,USA,Female,Both equally,PvE;PvP;RP,DPS;Tank,Hunter;Mage;Rogue;Warlock;Warrior,Night Elf;Tauren;Troll;Blood Elf,3,Both,Bi female
+2017/07/26 5:14:32 AM AST,Female,Bi/Pan,18 to 30,USA,Both equally,Alliance,PvE,DPS,Druid,Worgen,1,Both,Bi female
+2017/07/26 6:05:30 AM AST,Female,Bi/Pan,Under 18,USA,Female,Horde,PvE;RP,DPS,Demon Hunter;Hunter;Rogue,Night Elf;Blood Elf,1,Both,Bi female
+2017/07/26 7:09:38 AM AST,Other,Bi/Pan,18 to 30,usa,Both equally,Alliance,PvE,DPS,Warlock,Human,5,Both,Bi other
+2017/07/26 8:18:08 AM AST,Male,Bi/Pan,18 to 30,USA,Female,Alliance,RP,Tank;Healer,Death Knight;Priest,Human;Pandaren,2,Both,Bi male
+2017/07/26 8:50:47 AM AST,Other,Bi/Pan,18 to 30,USA,Both equally,Both equally,PvP,DPS,Death Knight;Warrior,Human;Blood Elf,4,Both,Bi other
+2017/07/26 9:03:42 AM AST,Other,Bi/Pan,18 to 30,USA,Female,Horde,RP,DPS,Demon Hunter,Blood Elf,1,Both,Bi other
+2017/07/26 9:18:16 AM AST,Male,Straight,18 to 30,,Male,Horde,RP,DPS;Tank,Death Knight;Demon Hunter;Paladin;Warlock,Blood Elf,11,Women,Straight man
+2017/07/26 9:24:40 AM AST,Female,Bi/Pan,Under 18,The Netherlands,Female,Alliance,RP,DPS;Healer,Druid;Hunter;Mage,Human;Night Elf,7,Both,Bi female
+2017/07/26 9:31:01 AM AST,Female,Bi/Pan,18 to 30,Finland,Female,Horde,PvE;RP,DPS;Tank,Death Knight;Demon Hunter;Monk;Paladin,Blood Elf;Goblin,2,Both,Bi female
+2017/07/26 9:37:41 AM AST,Female,Bi/Pan,18 to 30,Norway,Female,Alliance,PvE,DPS,Druid;Mage;Paladin,Night Elf;Blood Elf,3,Both,Bi female
+2017/07/26 9:41:27 AM AST,Male,Straight,18 to 30,Argentina,Male,Horde,PvP,DPS;Tank,Monk;Rogue;Warrior,Orc;Troll,0,Women,Straight man
+2017/07/26 9:43:29 AM AST,Female,Straight,18 to 30,USA,Female,Alliance,PvE,DPS,Mage,Draenei,1,Men,Straight woman
+2017/07/26 10:18:55 AM AST,Female,Straight,18 to 30,Belgium,Male,Horde,PvE;PvP;RP,DPS;Tank,Paladin;Warrior,Orc;Tauren;Blood Elf,3,Men,Straight woman
+2017/07/26 10:30:27 AM AST,Male,Gay,18 to 30,România ,Male,Horde,PvE,DPS,Mage;Monk;Shaman;Warlock,Orc,2,Men,Gay man
+2017/07/26 11:06:18 AM AST,Male,Gay,Under 18,USA,Female,Alliance,RP,DPS,Hunter;Rogue,Human;Night Elf,2,Men,Gay man
+2017/07/26 12:31:25 PM AST,Female,Gay,18 to 30,USA,Female,Alliance,RP,DPS,Hunter;Mage;Priest;Warlock,Human;Night Elf,1,Women,Gay woman
+2017/07/26 2:20:09 PM AST,Female,Bi/Pan,18 to 30,usa,Female,Horde,PvE,Healer,Monk;Priest,Blood Elf,4,Both,Bi female
+2017/07/26 2:23:58 PM AST,Other,Gay,Under 18,USA,Female,Alliance,PvE,DPS,Death Knight;Druid;Hunter,Night Elf;Worgen;Blood Elf,2,,Gay other
+2017/07/26 2:33:05 PM AST,Female,Gay,18 to 30,USA,Female,Both equally,PvE,Healer,Death Knight;Druid;Priest;Rogue,Night Elf;Draenei;Undead;Blood Elf,2,Women,Gay woman
+2017/07/26 4:04:49 PM AST,Female,Straight,31 to 42,USA,Female,Alliance,RP,DPS,Hunter,Human,1,Men,Straight woman
+2017/07/26 4:56:29 PM AST,Male,Bi/Pan,18 to 30,Australia,Female,Alliance,RP,DPS;Healer,Priest;Warlock,Night Elf;Draenei,12,Both,Bi male
+2017/07/26 5:26:40 PM AST,Female,Bi/Pan,18 to 30,,Female,Horde,RP,DPS,Warlock,Blood Elf,2,Both,Bi female
+2017/07/26 5:29:48 PM AST,Female,Bi/Pan,18 to 30,Italy,Female,Horde,PvE,DPS,Death Knight,Undead,1,Both,Bi female
+2017/07/26 6:14:32 PM AST,Male,Bi/Pan,Under 18,France,Female,Alliance,PvE,Tank,Warrior,Draenei,1,Both,Bi male
+2017/07/26 6:18:17 PM AST,Female,Straight,Under 18,England,Female,Horde,PvE,DPS,Death Knight;Demon Hunter;Mage;Warlock,Undead;Blood Elf,2,Men,Straight woman
+2017/07/26 6:20:47 PM AST,Other,Gay,18 to 30,Usa,Female,Horde,PvE;RP,DPS;Tank;Healer,Druid;Monk;Warlock,Troll;Blood Elf,3,,Gay other
+2017/07/26 6:25:45 PM AST,Other,Gay,18 to 30,USA,Male,Horde,PvE,DPS,Death Knight;Mage;Paladin,Draenei;Blood Elf,5,,Gay other
+2017/07/26 6:33:03 PM AST,Female,Bi/Pan,18 to 30,USA,Both equally,Both equally,PvE;RP,DPS;Tank;Healer,Demon Hunter;Druid;Hunter;Paladin;Priest,Night Elf;Draenei;Worgen;Blood Elf,5,Both,Bi female
+2017/07/26 6:33:57 PM AST,Male,Bi/Pan,Under 18,United Kingdom,Both equally,Both equally,RP,DPS,Monk;Paladin,Worgen;Pandaren;Undead;Blood Elf,2,Both,Bi male
+2017/07/26 8:10:42 PM AST,Female,Straight,Under 18,Canada,Female,Horde,PvP,DPS;Healer,Druid;Hunter;Mage,Tauren;Blood Elf,2,Men,Straight woman
+2017/07/26 8:19:22 PM AST,Male,Bi/Pan,18 to 30,USA,Male,Alliance,PvE,Tank,Druid,Worgen,1,Both,Bi male
+2017/07/26 11:03:11 PM AST,Female,Bi/Pan,18 to 30,USA,Female,Both equally,PvE,DPS;Healer,Hunter;Paladin;Rogue,Night Elf;Draenei,2,Both,Bi female
+2017/07/26 11:42:18 PM AST,Female,Gay,18 to 30,USA,Female,Alliance,PvE,DPS;Tank,Death Knight,Human,1,Women,Gay woman
+2017/07/27 1:44:07 AM AST,Female,Bi/Pan,31 to 42,USA,Female,Alliance,PvE,DPS,Mage,Human,6,Both,Bi female
+2017/07/27 2:15:48 AM AST,Female,Straight,18 to 30,Philippines,Female,Horde,PvP,DPS;Tank;Healer,Death Knight;Priest;Warlock,Human;Night Elf;Worgen;Blood Elf,2,Men,Straight woman
+2017/07/27 2:33:19 AM AST,Male,Gay,18 to 30,Finland,Male,Both equally,PvE;PvP,DPS;Healer,Druid,Draenei;Worgen;Tauren;Blood Elf,3,Men,Gay man
+2017/07/27 5:17:32 AM AST,Female,Straight,18 to 30,Méxici,Female,Alliance,PvP,DPS;Healer,Hunter;Priest;Warrior,Night Elf,2,Men,Straight woman
+2017/07/27 11:34:00 AM AST,Female,Bi/Pan,Under 18,Scotland,Female,Both equally,RP,Tank,Death Knight;Rogue,Draenei;Blood Elf,4,Both,Bi female
+2017/07/27 10:52:09 PM AST,Other,Bi/Pan,18 to 30,USA,Male,Horde,RP,DPS;Tank,Death Knight;Hunter,Night Elf;Worgen;Blood Elf,6,Both,Bi other
+2017/07/28 1:06:47 PM AST,Male,Bi/Pan,18 to 30,Canada,Male,Horde,PvE,DPS;Tank,Demon Hunter;Hunter;Mage;Warlock,Blood Elf,7,Both,Bi male
+2017/07/29 3:33:43 AM AST,Female,Straight,18 to 30,Sweden,Female,Both equally,PvE,DPS;Tank;Healer,Death Knight;Demon Hunter;Hunter;Paladin;Priest,Draenei;Worgen;Blood Elf,5,Men,Straight woman
+2017/07/29 11:07:06 AM AST,Female,Bi/Pan,Under 18,USA,Female,Alliance,PvE,DPS,Paladin,Draenei,2,Both,Bi female
+2017/07/29 12:28:28 PM AST,Female,Bi/Pan,18 to 30,South Korea,Female,Alliance,PvP,DPS,Hunter;Priest,Human;Draenei,3,Both,Bi female
+2017/07/30 2:21:52 AM AST,Male,Straight,18 to 30,USA,Both equally,Alliance,PvE,DPS;Tank;Healer,Hunter;Mage;Monk;Priest;Shaman,Human;Night Elf,9,Women,Straight man
+2017/07/30 3:23:38 AM AST,Male,Straight,Under 18,U.K,Male,Alliance,PvE;PvP,Healer,Paladin,Draenei,3,Women,Straight man
+2017/07/30 8:17:39 AM AST,Other,Straight,Under 18,USA,Both equally,Both equally,RP,DPS,Demon Hunter;Druid;Hunter,Human;Night Elf;Blood Elf,2,,Straight other
+2017/07/30 10:58:13 AM AST,Female,Bi/Pan,18 to 30,USA,Female,Horde,PvE;PvP,DPS;Healer,Druid;Paladin;Warlock,Night Elf;Draenei;Blood Elf,1,Both,Bi female
+2017/07/30 2:02:09 PM AST,Female,Straight,31 to 42,France,Female,Alliance,PvE,Healer,Priest,Draenei,2,Men,Straight woman
+2017/07/30 2:05:48 PM AST,Female,Bi/Pan,18 to 30,France,Female,Alliance,PvE,DPS,Druid,Night Elf,1,Both,Bi female
+2017/07/30 3:50:49 PM AST,Female,Bi/Pan,18 to 30,USA,Female,Alliance,PvE,DPS,Rogue,Night Elf,0,Both,Bi female
+2017/07/30 4:28:39 PM AST,Female,Bi/Pan,Under 18,,Female,Alliance,PvP,DPS,Druid,Night Elf,4,Both,Bi female
+2017/07/30 7:34:39 PM AST,Female,Gay,Under 18,USA,Female,Horde,PvE,DPS;Tank;Healer,Death Knight;Druid;Hunter,Night Elf;Blood Elf,4,Women,Gay woman
+2017/07/31 9:12:27 AM AST,Male,Bi/Pan,Under 18,USA,Female,Alliance,PvP;RP,DPS;Tank,Death Knight;Demon Hunter;Druid;Hunter,Night Elf;Draenei;Troll;Blood Elf,0,Both,Bi male
+2017/07/31 10:25:37 AM AST,Female,Bi/Pan,18 to 30,UK,Female,Horde,PvP,DPS;Healer,Druid;Priest,Undead;Blood Elf,4,Both,Bi female
+2017/07/31 5:03:25 PM AST,Female,Bi/Pan,18 to 30,Canada,Female,Alliance,RP,DPS,Monk;Paladin,Human;Pandaren,2,Both,Bi female
+2017/08/04  2:44:17 PM AST,Female,Gay,18 to 30,USA,Female,Alliance,PvE,DPS;Healer,Hunter;Monk,Night Elf;Draenei,2,Women,Gay woman
