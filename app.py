@@ -2,12 +2,9 @@ from flask import Flask, jsonify
 import psycopg2
 import pg_cred
 
-#
-# conn = psycopg2.connect(database = pg_cred.database,
-#                             user = pg_cred.user,
-#                             host = pg_cred.host,
-#                             password = pg_cred.password,
-#                             port = pg_cred.port)
+#initialize flast object
+app = Flask(__name__)
+
 
 #standard query format
 def query (query):
@@ -26,23 +23,6 @@ def query (query):
         list.append(row)
 
     return list
-#
-# queryGenderCount = ('SELECT age, COUNT(gender) FROM player GROUP BY age;')
-# #querySexualityCount = ('SELECT * FROM player RIGHT JOIN character ON player.id = character.id;')
-#
-# cur = conn.cursor()
-# cur.execute(queryGenderCount)
-# genderdata = cur.fetchall()
-# conn.commit()
-# conn.close()
-#
-#
-# print(genderdata)
-
-
-
-#initialize flast object
-app = Flask(__name__)
 
 
 
@@ -58,7 +38,7 @@ def homepage():
     )
 
 
-#player endpoint- showing complete player/ character profiles
+#player endpoint showing complete player/ character profiles
 @app.route("/api/v.1.0/players")
 def getPlayers():
     conn = psycopg2.connect(database=pg_cred.database,
@@ -100,7 +80,7 @@ def getPlayers():
     return jsonify(list)
 
 
-
+#endpoint to show the count of gender and sexuality, by age group
 @app.route("/api/v.1.0/age/subdemographics")
 def subdemographicsByAge():
     conn = psycopg2.connect(database=pg_cred.database,
