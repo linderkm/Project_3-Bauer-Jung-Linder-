@@ -1,101 +1,101 @@
-ID,Age,Gender,Sexuality,Country,Server
-001,18 to 30,Female,Bi/Pan,USA,PvE
-002,18 to 30,Other,Gay,Indonesia,RP
-003,18 to 30,Female,Bi/Pan,USA,PvE
-004,18 to 30,Male,Gay,England,PvE
-005,18 to 30,Male,Straight,usa,PvE
-006,18 to 30,Female,Bi/Pan,England,PvP
-007,18 to 30,Male,Straight,Russian Federation,PvE
-008,18 to 30,Female,Bi/Pan,,PvE;PvP
-009,18 to 30,Other,Bi/Pan,USA,PvE
-010,31 to 42,Female,Gay,USA,PvE;PvP;RP
-011,18 to 30,Male,Gay,South Africa,RP
-012,31 to 42,Male,Straight,USA,PvE
-013,43 to 55,Male,Straight,USA,PvE
-014,31 to 42,Male,Straight,USA,PvE
-015,18 to 30,Female,Bi/Pan,USA,PvE
-016,43 to 55,Female,Straight,USA,PvE
-017,18 to 30,Male,Bi/Pan,USA,PvE;RP
-018,18 to 30,Female,Gay,USA,PvE;PvP;RP
-019,18 to 30,Female,Gay,USA,PvP
-020,Under 18,Male,Gay,USA,PvP
-021,18 to 30,Female,Gay,Hungary,PvP
-022,18 to 30,Other,Bi/Pan,USA,PvP
-023,31 to 42,Female,Bi/Pan,United Kingdom,PvE
-024,Under 18,Female,Straight,USA,PvE
-025,18 to 30,Female,Gay,Ireland,PvP
-026,Under 18,Female,Bi/Pan,usa,RP
-027,Under 18,Female,Straight,USA,PvE
-028,Under 18,Female,Bi/Pan,USA,PvE
-029,Under 18,Male,Bi/Pan,USA,PvP
-030,18 to 30,Other,Gay,USA,RP
-031,18 to 30,Male,Gay,USA,PvE
-032,18 to 30,Other,Bi/Pan,USA,N/A
-033,18 to 30,Male,Straight,USA,PvE
-034,Under 18,Female,Gay,USA,RP
-035,18 to 30,Female,Gay,USA,RP
-036,18 to 30,Female,Bi/Pan,USA,PvE;RP
-037,18 to 30,Male,Bi/Pan,Chile,PvE
-038,18 to 30,Male,Bi/Pan,USA,RP
-039,18 to 30,Female,Straight,,PvP;RP
-040,Under 18,Other,Bi/Pan,USA,PvE;RP
-041,Under 18,Female,Bi/Pan,USA,RP
-042,Under 18,Female,Bi/Pan,USA,RP
-043,18 to 30,Female,Gay,Canada,PvE
-044,18 to 30,Female,Bi/Pan,USA,PvE;PvP;RP
-045,18 to 30,Female,Bi/Pan,USA,PvE
-046,Under 18,Female,Bi/Pan,USA,PvE;RP
-047,18 to 30,Other,Bi/Pan,usa,PvE
-048,18 to 30,Male,Bi/Pan,USA,RP
-049,18 to 30,Other,Bi/Pan,USA,PvP
-050,18 to 30,Other,Bi/Pan,USA,RP
-051,18 to 30,Male,Straight,,RP
-052,Under 18,Female,Bi/Pan,The Netherlands,RP
-053,18 to 30,Female,Bi/Pan,Finland,PvE;RP
-054,18 to 30,Female,Bi/Pan,Norway,PvE
-055,18 to 30,Male,Straight,Argentina,PvP
-056,18 to 30,Female,Straight,USA,PvE
-057,18 to 30,Female,Straight,Belgium,PvE;PvP;RP
-058,18 to 30,Male,Gay,România,PvE
-059,Under 18,Male,Gay,USA,RP
-060,18 to 30,Female,Gay,USA,RP
-061,18 to 30,Female,Bi/Pan,usa,PvE
-062,Under 18,Other,Gay,USA,PvE
-063,18 to 30,Female,Gay,USA,PvE
-064,31 to 42,Female,Straight,USA,RP
-065,18 to 30,Male,Bi/Pan,Australia,RP
-066,18 to 30,Female,Bi/Pan,,RP
-067,18 to 30,Female,Bi/Pan,Italy,PvE
-068,Under 18,Male,Bi/Pan,France,PvE
-069,Under 18,Female,Straight,England,PvE
-070,18 to 30,Other,Gay,Usa,PvE;RP
-071,18 to 30,Other,Gay,USA,PvE
-072,18 to 30,Female,Bi/Pan,USA,PvE;RP
-073,Under 18,Male,Bi/Pan,United Kingdom,RP
-074,Under 18,Female,Straight,Canada,PvP
-075,18 to 30,Male,Bi/Pan,USA,PvE
-076,18 to 30,Female,Bi/Pan,USA,PvE
-077,18 to 30,Female,Gay,USA,PvE
-078,31 to 42,Female,Bi/Pan,USA,PvE
-079,18 to 30,Female,Straight,Philippines,PvP
-080,18 to 30,Male,Gay,Finland,PvE;PvP
-081,18 to 30,Female,Straight,Méxici,PvP
-082,Under 18,Female,Bi/Pan,Scotland,RP
-083,18 to 30,Other,Bi/Pan,USA,RP
-084,18 to 30,Male,Bi/Pan,Canada,PvE
-085,18 to 30,Female,Straight,Sweden,PvE
-086,Under 18,Female,Bi/Pan,USA,PvE
-087,18 to 30,Female,Bi/Pan,South Korea,PvP
-088,18 to 30,Male,Straight,USA,PvE
-089,Under 18,Male,Straight,U.K,PvE;PvP
-090,Under 18,Other,Straight,USA,RP
-091,18 to 30,Female,Bi/Pan,USA,PvE;PvP
-092,31 to 42,Female,Straight,France,PvE
-093,18 to 30,Female,Bi/Pan,France,PvE
-094,18 to 30,Female,Bi/Pan,USA,PvE
-095,Under 18,Female,Bi/Pan,,PvP
-096,Under 18,Female,Gay,USA,PvE
-097,Under 18,Male,Bi/Pan,USA,PvP;RP
-098,18 to 30,Female,Bi/Pan,UK,PvP
-099,18 to 30,Female,Bi/Pan,Canada,RP
-100,18 to 30,Female,Gay,USA,PvE
+id,age,gender,sexuality,country,server
+1,18 to 30,female,bi/pan,usa,pve
+2,18 to 30,other,gay,indonesia,rp
+3,18 to 30,female,bi/pan,usa,pve
+4,18 to 30,male,gay,england,pve
+5,18 to 30,male,straight,usa,pve
+6,18 to 30,female,bi/pan,england,pvp
+7,18 to 30,male,straight,russian federation,pve
+8,18 to 30,female,bi/pan,,pve;pvp
+9,18 to 30,other,bi/pan,usa,pve
+10,31 to 42,female,gay,usa,pve;pvp;rp
+11,18 to 30,male,gay,south africa,rp
+12,31 to 42,male,straight,usa,pve
+13,43 to 55,male,straight,usa,pve
+14,31 to 42,male,straight,usa,pve
+15,18 to 30,female,bi/pan,usa,pve
+16,43 to 55,female,straight,usa,pve
+17,18 to 30,male,bi/pan,usa,pve;rp
+18,18 to 30,female,gay,usa,pve;pvp;rp
+19,18 to 30,female,gay,usa,pvp
+20,under 18,male,gay,usa,pvp
+21,18 to 30,female,gay,hungary,pvp
+22,18 to 30,other,bi/pan,usa,pvp
+23,31 to 42,female,bi/pan,united kingdom,pve
+24,under 18,female,straight,usa,pve
+25,18 to 30,female,gay,ireland,pvp
+26,under 18,female,bi/pan,usa,rp
+27,under 18,female,straight,usa,pve
+28,under 18,female,bi/pan,usa,pve
+29,under 18,male,bi/pan,usa,pvp
+30,18 to 30,other,gay,usa,rp
+31,18 to 30,male,gay,usa,pve
+32,18 to 30,other,bi/pan,usa,
+33,18 to 30,male,straight,usa,pve
+34,under 18,female,gay,usa,rp
+35,18 to 30,female,gay,usa,rp
+36,18 to 30,female,bi/pan,usa,pve;rp
+37,18 to 30,male,bi/pan,chile,pve
+38,18 to 30,male,bi/pan,usa,rp
+39,18 to 30,female,straight,,pvp;rp
+40,under 18,other,bi/pan,usa,pve;rp
+41,under 18,female,bi/pan,usa,rp
+42,under 18,female,bi/pan,usa,rp
+43,18 to 30,female,gay,canada,pve
+44,18 to 30,female,bi/pan,usa,pve;pvp;rp
+45,18 to 30,female,bi/pan,usa,pve
+46,under 18,female,bi/pan,usa,pve;rp
+47,18 to 30,other,bi/pan,usa,pve
+48,18 to 30,male,bi/pan,usa,rp
+49,18 to 30,other,bi/pan,usa,pvp
+50,18 to 30,other,bi/pan,usa,rp
+51,18 to 30,male,straight,,rp
+52,under 18,female,bi/pan,the netherlands,rp
+53,18 to 30,female,bi/pan,finland,pve;rp
+54,18 to 30,female,bi/pan,norway,pve
+55,18 to 30,male,straight,argentina,pvp
+56,18 to 30,female,straight,usa,pve
+57,18 to 30,female,straight,belgium,pve;pvp;rp
+58,18 to 30,male,gay,românia ,pve
+59,under 18,male,gay,usa,rp
+60,18 to 30,female,gay,usa,rp
+61,18 to 30,female,bi/pan,usa,pve
+62,under 18,other,gay,usa,pve
+63,18 to 30,female,gay,usa,pve
+64,31 to 42,female,straight,usa,rp
+65,18 to 30,male,bi/pan,australia,rp
+66,18 to 30,female,bi/pan,,rp
+67,18 to 30,female,bi/pan,italy,pve
+68,under 18,male,bi/pan,france,pve
+69,under 18,female,straight,england,pve
+70,18 to 30,other,gay,usa,pve;rp
+71,18 to 30,other,gay,usa,pve
+72,18 to 30,female,bi/pan,usa,pve;rp
+73,under 18,male,bi/pan,united kingdom,rp
+74,under 18,female,straight,canada,pvp
+75,18 to 30,male,bi/pan,usa,pve
+76,18 to 30,female,bi/pan,usa,pve
+77,18 to 30,female,gay,usa,pve
+78,31 to 42,female,bi/pan,usa,pve
+79,18 to 30,female,straight,philippines,pvp
+80,18 to 30,male,gay,finland,pve;pvp
+81,18 to 30,female,straight,méxici,pvp
+82,under 18,female,bi/pan,scotland,rp
+83,18 to 30,other,bi/pan,usa,rp
+84,18 to 30,male,bi/pan,canada,pve
+85,18 to 30,female,straight,sweden,pve
+86,under 18,female,bi/pan,usa,pve
+87,18 to 30,female,bi/pan,south korea,pvp
+88,18 to 30,male,straight,usa,pve
+89,under 18,male,straight,u.k,pve;pvp
+90,under 18,other,straight,usa,rp
+91,18 to 30,female,bi/pan,usa,pve;pvp
+92,31 to 42,female,straight,france,pve
+93,18 to 30,female,bi/pan,france,pve
+94,18 to 30,female,bi/pan,usa,pve
+95,under 18,female,bi/pan,,pvp
+96,under 18,female,gay,usa,pve
+97,under 18,male,bi/pan,usa,pvp;rp
+98,18 to 30,female,bi/pan,uk,pvp
+99,18 to 30,female,bi/pan,canada,rp
+100,18 to 30,female,gay,usa,pve

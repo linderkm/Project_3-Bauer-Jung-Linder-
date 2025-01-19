@@ -29,7 +29,8 @@ player_df = player_df.rename(columns = {"Age":"age", "Gender":"gender", "Sexuali
 character_df = character_df.rename(columns = {"Faction":"faction", "Main":"main", "Role":"role", "Class":"class", "Race": "race","Type":"type"})
 
 
-print(character_df.head())
+player_df.to_csv("resources/players.csv", encoding="utf-8", index=False, header=True)
+character_df.to_csv("resources/characters.csv", encoding="utf-8", index=False, header=True)
 
 
 

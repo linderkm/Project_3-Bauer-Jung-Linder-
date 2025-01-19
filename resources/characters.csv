@@ -1,101 +1,101 @@
-ID,Faction,Main,Role,Class,Race,Type
-001,Alliance,Female,DPS,Hunter,Draenei,Bi female
-002,Horde,Female,Healer,Druid,Troll,Gay other
-003,Horde,Female,DPS,Druid,Troll,Bi female
-004,Alliance,Female,Healer,Priest,Night Elf,Gay man
-005,Alliance,Female,Healer,Priest,Night Elf,Straight man
-006,Both equally,Both equally,Healer,Hunter;Rogue,Dwarf;Night Elf;Draenei,Bi female
-007,Alliance,Female,DPS;Healer,Shaman,Draenei,Straight man
-008,Horde,Female,DPS;Tank,Death Knight;Demon Hunter;Paladin,Blood Elf,Bi female
-009,Horde,Male,DPS;Healer,Shaman;Warlock;Warrior,Tauren,Bi other
-010,Horde,Female,DPS;Tank,Monk;Warrior,Pandaren,Gay woman
-011,Horde,Male,DPS,Monk,Blood Elf,Gay man
-012,Alliance,Both equally,Tank;Healer,Monk;Shaman;Warlock,Gnome;Draenei,Straight man
-013,Alliance,Male,DPS,Hunter,Human,Straight man
-014,Alliance,Female,DPS;Tank;Healer,Druid;Hunter;Monk;Paladin;Shaman,Human;Night Elf;Draenei,Straight man
-015,Alliance,Female,DPS;Tank,Death Knight;Hunter;Paladin,Night Elf;Blood Elf,Bi female
-016,Horde,Female,DPS;Healer,Druid;Hunter;Monk;Paladin;Priest;Rogue;Shaman;Warlock;Warrior,Dwarf;Gnome;Pandaren;Orc;Blood Elf;Goblin,Straight woman
-017,Horde,Female,DPS,Death Knight;Priest,Goblin,Bi male
-018,Horde,Female,DPS,Druid;Mage;Priest,Undead;Troll;Blood Elf,Gay woman
-019,Both equally,Female,DPS;Healer,Demon Hunter;Priest,Human;Night Elf;Blood Elf,Gay woman
-020,Horde,Male,DPS,Death Knight;Demon Hunter,Blood Elf,Gay man
-021,Alliance,Female,DPS;Healer,Death Knight;Druid;Shaman,Night Elf;Draenei,Gay woman
-022,Alliance,Female,DPS,Death Knight;Druid;Hunter,Night Elf;Draenei,Bi other
-023,Horde,Female,Tank,Death Knight,Blood Elf,Bi female
-024,Alliance,Female,DPS,Death Knight;Demon Hunter;Druid;Hunter;Paladin;Rogue,Human;Night Elf;Draenei;Worgen;Blood Elf,Straight woman
-025,Horde,Female,DPS,Demon Hunter;Mage,Blood Elf,Gay woman
-026,Alliance,Female,DPS,Druid,Night Elf,Bi female
-027,Horde,Male,Tank;Healer,Death Knight;Paladin;Priest,Undead;Blood Elf,Straight woman
-028,Alliance,Female,Tank;Healer,Death Knight;Druid,Night Elf;Draenei;Blood Elf,Bi female
-029,Alliance,Female,DPS;Healer,Death Knight;Hunter;Monk,Night Elf;Worgen;Pandaren;Goblin,Bi male
-030,Alliance,Female,DPS,Priest;Warrior,Worgen,Gay other
-031,Alliance,Male,DPS,Druid,Night Elf,Gay man
-032,Both equally,Female,DPS;Healer,Demon Hunter;Druid;Hunter;Priest,Night Elf;Blood Elf,Bi other
-033,Horde,Male,DPS,Mage,Undead,Straight man
-034,Both equally,Female,Tank;Healer,Demon Hunter;Druid;Monk;Warlock;Warrior,Night Elf;Worgen;Pandaren;Undead;Blood Elf,Gay woman
-035,Horde,Both equally,DPS;Healer,Death Knight;Paladin,Night Elf;Blood Elf,Gay woman
-036,Both equally,Both equally,DPS,Druid;Hunter,Human;Night Elf;Blood Elf,Bi female
-037,Alliance,Female,DPS;Tank;Healer,Paladin;Warrior,Pandaren;Tauren,Bi male
-038,Horde,Male,DPS,Demon Hunter,Blood Elf,Bi male
-039,Both equally,Female,DPS;Healer,Mage;Shaman,Dwarf;Pandaren,Straight woman
-040,Alliance,Female,Healer,Demon Hunter;Monk;Priest,Night Elf;Pandaren,Bi other
-041,Alliance,Female,DPS,Druid,Night Elf,Bi female
-042,Alliance,Female,DPS,Druid,Night Elf;Worgen,Bi female
-043,Alliance,Female,DPS,Monk,Human,Gay woman
-044,Both equally,Female,DPS;Tank,Hunter;Mage;Rogue;Warlock;Warrior,Night Elf;Tauren;Troll;Blood Elf,Bi female
-045,Alliance,Both equally,DPS,Druid,Worgen,Bi female
-046,Horde,Female,DPS,Demon Hunter;Hunter;Rogue,Night Elf;Blood Elf,Bi female
-047,Alliance,Both equally,DPS,Warlock,Human,Bi other
-048,Alliance,Female,Tank;Healer,Death Knight;Priest,Human;Pandaren,Bi male
-049,Both equally,Both equally,DPS,Death Knight;Warrior,Human;Blood Elf,Bi other
-050,Horde,Female,DPS,Demon Hunter,Blood Elf,Bi other
-051,Horde,Male,DPS;Tank,Death Knight;Demon Hunter;Paladin;Warlock,Blood Elf,Straight man
-052,Alliance,Female,DPS;Healer,Druid;Hunter;Mage,Human;Night Elf,Bi female
-053,Horde,Female,DPS;Tank,Death Knight;Demon Hunter;Monk;Paladin,Blood Elf;Goblin,Bi female
-054,Alliance,Female,DPS,Druid;Mage;Paladin,Night Elf;Blood Elf,Bi female
-055,Horde,Male,DPS;Tank,Monk;Rogue;Warrior,Orc;Troll,Straight man
-056,Alliance,Female,DPS,Mage,Draenei,Straight woman
-057,Horde,Male,DPS;Tank,Paladin;Warrior,Orc;Tauren;Blood Elf,Straight woman
-058,Horde,Male,DPS,Mage;Monk;Shaman;Warlock,Orc,Gay man
-059,Alliance,Female,DPS,Hunter;Rogue,Human;Night Elf,Gay man
-060,Alliance,Female,DPS,Hunter;Mage;Priest;Warlock,Human;Night Elf,Gay woman
-061,Horde,Female,Healer,Monk;Priest,Blood Elf,Bi female
-062,Alliance,Female,DPS,Death Knight;Druid;Hunter,Night Elf;Worgen;Blood Elf,Gay other
-063,Both equally,Female,Healer,Death Knight;Druid;Priest;Rogue,Night Elf;Draenei;Undead;Blood Elf,Gay woman
-064,Alliance,Female,DPS,Hunter,Human,Straight woman
-065,Alliance,Female,DPS;Healer,Priest;Warlock,Night Elf;Draenei,Bi male
-066,Horde,Female,DPS,Warlock,Blood Elf,Bi female
-067,Horde,Female,DPS,Death Knight,Undead,Bi female
-068,Alliance,Female,Tank,Warrior,Draenei,Bi male
-069,Horde,Female,DPS,Death Knight;Demon Hunter;Mage;Warlock,Undead;Blood Elf,Straight woman
-070,Horde,Female,DPS;Tank;Healer,Druid;Monk;Warlock,Troll;Blood Elf,Gay other
-071,Horde,Male,DPS,Death Knight;Mage;Paladin,Draenei;Blood Elf,Gay other
-072,Both equally,Both equally,DPS;Tank;Healer,Demon Hunter;Druid;Hunter;Paladin;Priest,Night Elf;Draenei;Worgen;Blood Elf,Bi female
-073,Both equally,Both equally,DPS,Monk;Paladin,Worgen;Pandaren;Undead;Blood Elf,Bi male
-074,Horde,Female,DPS;Healer,Druid;Hunter;Mage,Tauren;Blood Elf,Straight woman
-075,Alliance,Male,Tank,Druid,Worgen,Bi male
-076,Both equally,Female,DPS;Healer,Hunter;Paladin;Rogue,Night Elf;Draenei,Bi female
-077,Alliance,Female,DPS;Tank,Death Knight,Human,Gay woman
-078,Alliance,Female,DPS,Mage,Human,Bi female
-079,Horde,Female,DPS;Tank;Healer,Death Knight;Priest;Warlock,Human;Night Elf;Worgen;Blood Elf,Straight woman
-080,Both equally,Male,DPS;Healer,Druid,Draenei;Worgen;Tauren;Blood Elf,Gay man
-081,Alliance,Female,DPS;Healer,Hunter;Priest;Warrior,Night Elf,Straight woman
-082,Both equally,Female,Tank,Death Knight;Rogue,Draenei;Blood Elf,Bi female
-083,Horde,Male,DPS;Tank,Death Knight;Hunter,Night Elf;Worgen;Blood Elf,Bi other
-084,Horde,Male,DPS;Tank,Demon Hunter;Hunter;Mage;Warlock,Blood Elf,Bi male
-085,Both equally,Female,DPS;Tank;Healer,Death Knight;Demon Hunter;Hunter;Paladin;Priest,Draenei;Worgen;Blood Elf,Straight woman
-086,Alliance,Female,DPS,Paladin,Draenei,Bi female
-087,Alliance,Female,DPS,Hunter;Priest,Human;Draenei,Bi female
-088,Alliance,Both equally,DPS;Tank;Healer,Hunter;Mage;Monk;Priest;Shaman,Human;Night Elf,Straight man
-089,Alliance,Male,Healer,Paladin,Draenei,Straight man
-090,Both equally,Both equally,DPS,Demon Hunter;Druid;Hunter,Human;Night Elf;Blood Elf,Straight other
-091,Horde,Female,DPS;Healer,Druid;Paladin;Warlock,Night Elf;Draenei;Blood Elf,Bi female
-092,Alliance,Female,Healer,Priest,Draenei,Straight woman
-093,Alliance,Female,DPS,Druid,Night Elf,Bi female
-094,Alliance,Female,DPS,Rogue,Night Elf,Bi female
-095,Alliance,Female,DPS,Druid,Night Elf,Bi female
-096,Horde,Female,DPS;Tank;Healer,Death Knight;Druid;Hunter,Night Elf;Blood Elf,Gay woman
-097,Alliance,Female,DPS;Tank,Death Knight;Demon Hunter;Druid;Hunter,Night Elf;Draenei;Troll;Blood Elf,Bi male
-098,Horde,Female,DPS;Healer,Druid;Priest,Undead;Blood Elf,Bi female
-099,Alliance,Female,DPS,Monk;Paladin,Human;Pandaren,Bi female
-100,Alliance,Female,DPS;Healer,Hunter;Monk,Night Elf;Draenei,Gay woman
+id,faction,main,role,class,race,type
+1,alliance,female,dps,hunter,draenei,bi female
+2,horde,female,healer,druid,troll,gay other
+3,horde,female,dps,druid,troll,bi female
+4,alliance,female,healer,priest,night elf,gay man
+5,alliance,female,healer,priest,night elf,straight man
+6,both equally,both equally,healer,hunter;rogue,dwarf;night elf;draenei,bi female
+7,alliance,female,dps;healer,shaman,draenei,straight man
+8,horde,female,dps;tank,death knight;demon hunter;paladin,blood elf,bi female
+9,horde,male,dps;healer,shaman;warlock;warrior,tauren,bi other
+10,horde,female,dps;tank,monk;warrior,pandaren,gay woman
+11,horde,male,dps,monk,blood elf,gay man
+12,alliance,both equally,tank;healer,monk;shaman;warlock,gnome;draenei,straight man
+13,alliance,male,dps,hunter,human,straight man
+14,alliance,female,dps;tank;healer,druid;hunter;monk;paladin;shaman,human;night elf;draenei,straight man
+15,alliance,female,dps;tank,death knight;hunter;paladin,night elf;blood elf,bi female
+16,horde,female,dps;healer,druid;hunter;monk;paladin;priest;rogue;shaman;warlock;warrior,dwarf;gnome;pandaren;orc;blood elf;goblin,straight woman
+17,horde,female,dps,death knight;priest,goblin,bi male
+18,horde,female,dps,druid;mage;priest,undead;troll;blood elf,gay woman
+19,both equally,female,dps;healer,demon hunter;priest,human;night elf;blood elf,gay woman
+20,horde,male,dps,death knight;demon hunter,blood elf,gay man
+21,alliance,female,dps;healer,death knight;druid;shaman,night elf;draenei,gay woman
+22,alliance,female,dps,death knight;druid;hunter,night elf;draenei,bi other
+23,horde,female,tank,death knight,blood elf,bi female
+24,alliance,female,dps,death knight;demon hunter;druid;hunter;paladin;rogue,human;night elf;draenei;worgen;blood elf,straight woman
+25,horde,female,dps,demon hunter;mage,blood elf,gay woman
+26,alliance,female,dps,druid,night elf,bi female
+27,horde,male,tank;healer,death knight;paladin;priest,undead;blood elf,straight woman
+28,alliance,female,tank;healer,death knight;druid,night elf;draenei;blood elf,bi female
+29,alliance,female,dps;healer,death knight;hunter;monk,night elf;worgen;pandaren;goblin,bi male
+30,alliance,female,dps,priest;warrior,worgen,gay other
+31,alliance,male,dps,druid,night elf,gay man
+32,both equally,female,dps;healer,demon hunter;druid;hunter;priest,night elf;blood elf,bi other
+33,horde,male,dps,mage,undead,straight man
+34,both equally,female,tank;healer,demon hunter;druid;monk;warlock;warrior,night elf;worgen;pandaren;undead;blood elf,gay woman
+35,horde,both equally,dps;healer,death knight;paladin,night elf;blood elf,gay woman
+36,both equally,both equally,dps,druid;hunter,human;night elf;blood elf,bi female
+37,alliance,female,dps;tank;healer,paladin;warrior,pandaren;tauren,bi male
+38,horde,male,dps,demon hunter,blood elf,bi male
+39,both equally,female,dps;healer,mage;shaman,dwarf;pandaren,straight woman
+40,alliance,female,healer,demon hunter;monk;priest,night elf;pandaren,bi other
+41,alliance,female,dps,druid,night elf,bi female
+42,alliance,female,dps,druid,night elf;worgen,bi female
+43,alliance,female,dps,monk,human,gay woman
+44,both equally,female,dps;tank,hunter;mage;rogue;warlock;warrior,night elf;tauren;troll;blood elf,bi female
+45,alliance,both equally,dps,druid,worgen,bi female
+46,horde,female,dps,demon hunter;hunter;rogue,night elf;blood elf,bi female
+47,alliance,both equally,dps,warlock,human,bi other
+48,alliance,female,tank;healer,death knight;priest,human;pandaren,bi male
+49,both equally,both equally,dps,death knight;warrior,human;blood elf,bi other
+50,horde,female,dps,demon hunter,blood elf,bi other
+51,horde,male,dps;tank,death knight;demon hunter;paladin;warlock,blood elf,straight man
+52,alliance,female,dps;healer,druid;hunter;mage,human;night elf,bi female
+53,horde,female,dps;tank,death knight;demon hunter;monk;paladin,blood elf;goblin,bi female
+54,alliance,female,dps,druid;mage;paladin,night elf;blood elf,bi female
+55,horde,male,dps;tank,monk;rogue;warrior,orc;troll,straight man
+56,alliance,female,dps,mage,draenei,straight woman
+57,horde,male,dps;tank,paladin;warrior,orc;tauren;blood elf,straight woman
+58,horde,male,dps,mage;monk;shaman;warlock,orc,gay man
+59,alliance,female,dps,hunter;rogue,human;night elf,gay man
+60,alliance,female,dps,hunter;mage;priest;warlock,human;night elf,gay woman
+61,horde,female,healer,monk;priest,blood elf,bi female
+62,alliance,female,dps,death knight;druid;hunter,night elf;worgen;blood elf,gay other
+63,both equally,female,healer,death knight;druid;priest;rogue,night elf;draenei;undead;blood elf,gay woman
+64,alliance,female,dps,hunter,human,straight woman
+65,alliance,female,dps;healer,priest;warlock,night elf;draenei,bi male
+66,horde,female,dps,warlock,blood elf,bi female
+67,horde,female,dps,death knight,undead,bi female
+68,alliance,female,tank,warrior,draenei,bi male
+69,horde,female,dps,death knight;demon hunter;mage;warlock,undead;blood elf,straight woman
+70,horde,female,dps;tank;healer,druid;monk;warlock,troll;blood elf,gay other
+71,horde,male,dps,death knight;mage;paladin,draenei;blood elf,gay other
+72,both equally,both equally,dps;tank;healer,demon hunter;druid;hunter;paladin;priest,night elf;draenei;worgen;blood elf,bi female
+73,both equally,both equally,dps,monk;paladin,worgen;pandaren;undead;blood elf,bi male
+74,horde,female,dps;healer,druid;hunter;mage,tauren;blood elf,straight woman
+75,alliance,male,tank,druid,worgen,bi male
+76,both equally,female,dps;healer,hunter;paladin;rogue,night elf;draenei,bi female
+77,alliance,female,dps;tank,death knight,human,gay woman
+78,alliance,female,dps,mage,human,bi female
+79,horde,female,dps;tank;healer,death knight;priest;warlock,human;night elf;worgen;blood elf,straight woman
+80,both equally,male,dps;healer,druid,draenei;worgen;tauren;blood elf,gay man
+81,alliance,female,dps;healer,hunter;priest;warrior,night elf,straight woman
+82,both equally,female,tank,death knight;rogue,draenei;blood elf,bi female
+83,horde,male,dps;tank,death knight;hunter,night elf;worgen;blood elf,bi other
+84,horde,male,dps;tank,demon hunter;hunter;mage;warlock,blood elf,bi male
+85,both equally,female,dps;tank;healer,death knight;demon hunter;hunter;paladin;priest,draenei;worgen;blood elf,straight woman
+86,alliance,female,dps,paladin,draenei,bi female
+87,alliance,female,dps,hunter;priest,human;draenei,bi female
+88,alliance,both equally,dps;tank;healer,hunter;mage;monk;priest;shaman,human;night elf,straight man
+89,alliance,male,healer,paladin,draenei,straight man
+90,both equally,both equally,dps,demon hunter;druid;hunter,human;night elf;blood elf,straight other
+91,horde,female,dps;healer,druid;paladin;warlock,night elf;draenei;blood elf,bi female
+92,alliance,female,healer,priest,draenei,straight woman
+93,alliance,female,dps,druid,night elf,bi female
+94,alliance,female,dps,rogue,night elf,bi female
+95,alliance,female,dps,druid,night elf,bi female
+96,horde,female,dps;tank;healer,death knight;druid;hunter,night elf;blood elf,gay woman
+97,alliance,female,dps;tank,death knight;demon hunter;druid;hunter,night elf;draenei;troll;blood elf,bi male
+98,horde,female,dps;healer,druid;priest,undead;blood elf,bi female
+99,alliance,female,dps,monk;paladin,human;pandaren,bi female
+100,alliance,female,dps;healer,hunter;monk,night elf;draenei,gay woman
