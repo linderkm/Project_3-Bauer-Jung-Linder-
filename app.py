@@ -104,25 +104,30 @@ def subdemographicsByAge():
 
     ageData = []
     for group in uniqueAgelist:
-        qlist = []
-        ageDict = {"Age": group}
-        qlist.append(ageDict)
+        qDict = {}
+        qDict["Age"] = group
+
         genderQueryString = (f"SELECT gender, COUNT(gender) FROM player WHERE age = '{group}' GROUP BY gender;")
         output = query(genderQueryString)
         genderDict = {}
         for row in output:
             genderDict[row[0]] = row[1]
-        finalGenderDict = {"Gender": genderDict}
-        qlist.append(finalGenderDict)
+        qDict["Gender"] = genderDict
+
+        count = 0
+        for row in output:
+            count += row[1]
+        qDict["Count"] = count
+
 
         sexualityQueryString = (f"SELECT sexuality, COUNT(sexuality) FROM player WHERE age = '{group}' GROUP BY sexuality;")
         output = query(sexualityQueryString)
         sexualityDict = {}
         for row in output:
             sexualityDict[row[0]] = row[1]
-        finalSexualityDict = {"Sexuality": sexualityDict}
-        qlist.append(finalSexualityDict)
-        ageData.append(qlist)
+        qDict["Sexuality"] = sexualityDict
+
+        ageData.append(qDict)
 
     conn.commit()
     conn.close()
