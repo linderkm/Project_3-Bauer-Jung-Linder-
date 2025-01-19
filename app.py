@@ -2,24 +2,42 @@ from flask import Flask, jsonify
 import psycopg2
 import pg_cred
 
+#
+# conn = psycopg2.connect(database = pg_cred.database,
+#                             user = pg_cred.user,
+#                             host = pg_cred.host,
+#                             password = pg_cred.password,
+#                             port = pg_cred.port)
 
-conn = psycopg2.connect(database = pg_cred.database,
-                            user = pg_cred.user,
-                            host = pg_cred.host,
-                            password = pg_cred.password,
-                            port = pg_cred.port)
-
-queryGenderCount = ('SELECT age, COUNT(gender) FROM player GROUP BY age;')
-#querySexualityCount = ('SELECT * FROM player RIGHT JOIN character ON player.id = character.id;')
-
-cur = conn.cursor()
-cur.execute(queryGenderCount)
-genderdata = cur.fetchall()
-conn.commit()
-conn.close()
+#standard query format
+def query (query):
+    conn = psycopg2.connect(database=pg_cred.database,
+                            user=pg_cred.user,
+                            host=pg_cred.host,
+                            password=pg_cred.password,
+                            port=pg_cred.port)
+    cur = conn.cursor()
+    cur.execute(query)
+    out = cur.fetchall()
 
 
-print(genderdata)
+    list = []
+    for row in out:
+        list.append(row)
+
+    return list
+#
+# queryGenderCount = ('SELECT age, COUNT(gender) FROM player GROUP BY age;')
+# #querySexualityCount = ('SELECT * FROM player RIGHT JOIN character ON player.id = character.id;')
+#
+# cur = conn.cursor()
+# cur.execute(queryGenderCount)
+# genderdata = cur.fetchall()
+# conn.commit()
+# conn.close()
+#
+#
+# print(genderdata)
 
 
 
@@ -40,24 +58,22 @@ def homepage():
     )
 
 
-
-
 #player endpoint- showing complete player/ character profiles
 @app.route("/api/v.1.0/players")
 def getPlayers():
-    conn = psycopg2.connect(database="warcraft_db",
-                            user="postgres",
-                            host="localhost",
-                            password="postgres",
-                            port=5432)
+    conn = psycopg2.connect(database=pg_cred.database,
+                            user=pg_cred.user,
+                            host=pg_cred.host,
+                            password=pg_cred.password,
+                            port=pg_cred.port)
 
     query = ('SELECT * FROM player RIGHT JOIN character ON player.id = character.id;')
 
     cur = conn.cursor()
     cur.execute(query)
     rows = cur.fetchall()
-    conn.commit()
-    conn.close()
+    # conn.commit()
+    # conn.close()
 
     list = []
 
@@ -78,41 +94,69 @@ def getPlayers():
         dict['type'] = row[12]
         list.append(dict)
 
+    conn.commit()
+    conn.close()
+
     return jsonify(list)
 
 
 
+@app.route("/api/v.1.0/age/subdemographics")
+def subdemographicsByAge():
+    conn = psycopg2.connect(database=pg_cred.database,
+                            user=pg_cred.user,
+                            host=pg_cred.host,
+                            password=pg_cred.password,
+                            port=pg_cred.port)
+
+    cur = conn.cursor()
+
+    """
+    Get unique age groups to iterate over for bulk queries
+    """
+    queryUniqueAge = ('SELECT DISTINCT age FROM player;')
+    cur.execute(queryUniqueAge)
+    uniqueAgeOutput = cur.fetchall()
+
+    uniqueAgelist = []
+    for row in uniqueAgeOutput:
+        uniqueAgelist.append(row[0])
+
+    ageData = []
+    for group in uniqueAgelist:
+        qlist = []
+        ageDict = {"Age": group}
+        qlist.append(ageDict)
+        genderQueryString = (f"SELECT gender, COUNT(gender) FROM player WHERE age = '{group}' GROUP BY gender;")
+        output = query(genderQueryString)
+        genderDict = {}
+        for row in output:
+            genderDict[row[0]] = row[1]
+        finalGenderDict = {"Gender": genderDict}
+        qlist.append(finalGenderDict)
+
+        sexualityQueryString = (f"SELECT sexuality, COUNT(sexuality) FROM player WHERE age = '{group}' GROUP BY sexuality;")
+        output = query(sexualityQueryString)
+        sexualityDict = {}
+        for row in output:
+            sexualityDict[row[0]] = row[1]
+        finalSexualityDict = {"Sexuality": sexualityDict}
+        qlist.append(finalSexualityDict)
+        ageData.append(qlist)
+
+    conn.commit()
+    conn.close()
+
+
+    return jsonify(ageData)
 
 
 
 
-# @app.route("/api/v.1.0/age/subdemographics")
-# def subdemographicsByAge():
-#
-#     conn = psycopg2.connect(database="warcraft_db",
-#                                 user="postgres",
-#                                 host="localhost",
-#                                 password="postgres",
-#                                 port=5432)
-#
-#     queryGenderCount = ('SELECT age, COUNT(gender) FROM player GROUP BY age;')
-#     querySexualityCount = ('SELECT * FROM player RIGHT JOIN character ON player.id = character.id;')
-#
-#     cur = conn.cursor()
-#     cur.execute(queryGenderCount)
-#     genderdata = cur.fetchall()
-#     conn.commit()
-#     conn.close()
 
 
 
-
-
-
-
-
-
-# if __name__ == '__main__':
-#     app.run(debug=True)
+if __name__ == '__main__':
+    app.run(debug=True)
 
 
