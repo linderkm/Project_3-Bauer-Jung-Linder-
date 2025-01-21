@@ -52,8 +52,6 @@ def getPlayers():
     cur = conn.cursor()
     cur.execute(query)
     rows = cur.fetchall()
-    # conn.commit()
-    # conn.close()
 
     list = []
 
@@ -91,9 +89,7 @@ def subdemographicsByAge():
 
     cur = conn.cursor()
 
-    """
-    Get unique age groups to iterate over for bulk queries
-    """
+    #Get unique age groups to iterate over for bulk queries
     queryUniqueAge = ('SELECT DISTINCT age FROM player;')
     cur.execute(queryUniqueAge)
     uniqueAgeOutput = cur.fetchall()
@@ -119,7 +115,6 @@ def subdemographicsByAge():
             count += row[1]
         qDict["Count"] = count
 
-
         sexualityQueryString = (f"SELECT sexuality, COUNT(sexuality) FROM player WHERE age = '{group}' GROUP BY sexuality;")
         output = query(sexualityQueryString)
         sexualityDict = {}
@@ -132,11 +127,7 @@ def subdemographicsByAge():
     conn.commit()
     conn.close()
 
-
     return jsonify(ageData)
-
-
-
 
 
 
