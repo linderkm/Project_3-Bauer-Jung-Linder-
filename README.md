@@ -23,6 +23,6 @@ A prototype API was also build using Flask, to show how the data could be access
 The original source of the data is linked above, to ensure that proper visibility is provided to the original source. Additionally, consideration was given to the personal nature of the subject data. Given the use of demographic information, it is important to ensure that the underlying data is anonymous in nature, and cannot be linked individuals.
 
 # Sources
-Original data source: https://www.kaggle.com/datasets/avenn98/world-of-warcraft-demographics
-DBD Tool: https://www.quickdatabasediagrams.com/
-Psycopg2 library: https://pypi.org/project/psycopg2/
+- Original data source: https://www.kaggle.com/datasets/avenn98/world-of-warcraft-demographics
+- DBD Tool: https://www.quickdatabasediagrams.com/
+- Psycopg2 library: https://pypi.org/project/psycopg2/
