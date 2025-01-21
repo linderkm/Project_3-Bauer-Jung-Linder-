@@ -13,9 +13,9 @@ A prototype API was also build using Flask, to show how the data could be access
 5. Create two new tables using `schema.sql`.
 6. Import player.csv and character.csv into their respectively named tables.
 7. Install [psycopg2](https://pypi.org/project/psycopg2/), using either `pip install psycopg2` or `conda install psycopg2`.
-8. Create a local python file named 'pg_cred.py'. This file will contain the necessary credential details to connect to 'warcraft_db' using psycopg2.
-9. In 'pg_cred.py', set `database = 'warcraft_db'`, `user = '<your_username>'`, `host = 'localhost'`, `password = '<your_password>'`, `port = 5432`.
-9. To Initialize Flask API, run `app.py`.
+8. Create a local python file named `pg_cred.py`. This file will contain the necessary credential details to connect to 'warcraft_db' using psycopg2.
+9. In `pg_cred.py`, set `database = 'warcraft_db'`, `user = '<your_username>'`, `host = 'localhost'`, `password = '<your_password>'`, `port = 5432`.
+9. To initialize Flask API, run `app.py`.
 
 
 
