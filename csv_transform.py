@@ -9,7 +9,7 @@ raw_df = pandas.read_csv(path, encoding="utf-8")
 player_df = raw_df[["Age", "Gender", "Sexuality", "Country", "Server"]]
 character_df = raw_df[["Faction","Main","Role","Class","Race","Type"]]
 
-#adding ID column to player data
+#adding ID column to player and character DataFrames
 #https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.assign.html
 player_df = player_df.assign(id=lambda x: [x for x in range(1,len(player_df)+1)])
 character_df = character_df.assign(id=lambda x: [x for x in range(1,len(player_df)+1)])
